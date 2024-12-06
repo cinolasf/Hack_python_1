@@ -1,14 +1,3 @@
-# SOCIAL OPLESK
-### 🏴‍☠️ HACKS 
-
-<br/>
-
-📚 tutoriales de python [tutorial 1](https://docs.python.org/es/3/tutorial/) | [tutorial 2](https://www.w3schools.com/python/)
----
-
-```diff
-- NOTA HACER LAS PRÁCTICAS MEDIANTE VISUAL STUDIO CODE  
-```
 
 ```diff
 * 1) Tienes que clonar el repositorio 
@@ -24,10 +13,7 @@
 
   ✔ NOTA: en caso de no reconocer el comando "pytest"
           ejecutar el pytest así: python -m pytest test_hack.py -v
-       
-```
-#### 🎬 Clonar Repo + Instalar requirements
-![](https://github.com/SocialOplesk/hack_python_1/blob/main/gifs/hack_python_1_install.gif)
+
 
 <br/>
 
@@ -46,9 +32,6 @@
 <br/> 
 
 ## 🏆 H-1
-🎬 Cómo resolver el hack y adicional ejecutar el testing, para validar el hack.
-
-![](https://github.com/SocialOplesk/hack_python_1/blob/main/gifs/hack_python_1_run.gif)
 ```sh
 text: "fooziman" output => "FOOZIMAN"
 ```
@@ -103,7 +86,4 @@ text: "fooziman" output => ["F","0","0","Z","1","M","@","N"]
 ```
 <br/>
 
-# hack_paython_1
-# hack_paython_1
-# Hack_python_1
-# Hack_python_1
+
